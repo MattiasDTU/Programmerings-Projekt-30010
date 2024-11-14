@@ -1,6 +1,6 @@
 # Programmerings-Projekt-30010: Space Invaders & Asteroids-Inspired Game
 
-This repository contains the code and documentation for a programming project developed as part of the "30010 Programmeringsprojekt" at DTU. The goal was to design and implement a game inspired by *Space Invaders (1978)* and *Asteroids (1979)* using low-level C programming on the STM32F302x8 microcontroller.
+This repository contains the code and documentation for a programming project developed as part of the "30010 Programmeringsprojekt" at DTU. The goal was to design and implement a game inspired by *Space Invaders (1978)* and *Asteroids (1979)* using embedded C programming on the STM32F302x8 microcontroller.
 
 ## Key Features:
 - **Game Mechanics**: Includes moving enemies, power-ups (TNT and hearts), and asteroid-based gravity zones.
